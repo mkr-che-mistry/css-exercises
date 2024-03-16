@@ -1,0 +1,20 @@
+p:nth-child(odd) {
+    background-color: rgb(228, 163, 220);
+    font-family: 'Verdana', 'Deja Vu Sans', 'sans-serif';
+ }
+
+ .second{
+    color: blue;
+    font-size: 36px;
+ }
+
+ .third{
+    font-size: 24px;
+ }
+
+ #fourth{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+
+ }
